@@ -3,7 +3,7 @@ import logo from "./../assets/Images/disney.png"
 import { HiHome } from "react-icons/hi2";
 import { HiMagnifyingGlass,HiStar, HiPlayCircle,HiTv } from "react-icons/hi2";
 import { HiPlus, HiDotsVertical  } from "react-icons/hi";
-import HeaderItem from './Headeritem';
+import HeaderItem from './HeaderItem';
 import Pic from "./../assets/Images/download (6).jpeg"
 
 
